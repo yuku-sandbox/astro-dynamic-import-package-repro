@@ -1,5 +1,5 @@
 {
-  "name": "@astro-mdx-layout-package-repro/page-container",
+  "name": "@astro-dynamic-import-package-repro/page-container",
   "type": "module",
   "version": "0.0.1",
   "exports": {

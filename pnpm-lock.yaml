@@ -16,13 +16,13 @@ importers:
 
   blog:
     specifiers:
-      '@astro-mdx-layout-package-repro/page-container': workspace:*
+      '@astro-dynamic-import-package-repro/page-container': workspace:*
       '@astrojs/mdx': ^0.16.0
       '@astrojs/rss': ^2.1.0
       '@astrojs/sitemap': ^1.0.1
       astro: ^2.0.10
     dependencies:
-      '@astro-mdx-layout-package-repro/page-container': link:../page-container
+      '@astro-dynamic-import-package-repro/page-container': link:../page-container
       '@astrojs/mdx': 0.16.0_astro@2.0.10
       '@astrojs/rss': 2.1.0
       '@astrojs/sitemap': 1.0.1
