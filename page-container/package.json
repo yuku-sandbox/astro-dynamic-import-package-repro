@@ -1,0 +1,16 @@
+{
+  "name": "@astro-mdx-layout-package-repro/page-container",
+  "type": "module",
+  "version": "0.0.1",
+  "exports": {
+    ".": "./PageContainer.astro"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {}
+}
